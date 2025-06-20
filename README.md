@@ -1,10 +1,8 @@
 # AtCoder PHP実行環境
 
-競技プログラミング用のPHP実行環境です。
+AtcoderのPHP実行環境です。
 
 ## 使い方
-
-### Makefileを使った実行（推奨）
 
 ```bash
 # Dockerイメージをビルド

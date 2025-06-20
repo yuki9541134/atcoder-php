@@ -8,9 +8,9 @@ AtcoderのPHP実行環境です。
 # Dockerイメージをビルド
 make build
 
-# input.txtとsample.phpを実行
+# input.txtとmain.phpを実行
 make run
 
 # 別のファイルを指定して実行
-make run FILE=problem1.php INPUT=test1.txt
+make run FILE=sample.php INPUT=sample.txt
 ```

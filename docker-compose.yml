@@ -1,0 +1,8 @@
+services:
+  php:
+    build: .
+    volumes:
+      - ./src:/app
+    stdin_open: true
+    tty: true
+    working_dir: /app
